@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1683683951 source:d:\newgame\gamee\game.cpp
+	"game.h"
+
+1683683960 d:\newgame\gamee\game.h
+	<iostream>
+	<fstream>
+	<SDL.h>
+	<vector>
+	<iomanip>
+	<sstream>
+	<cmath>
+	<string>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+
+1683610897 source:d:\newgame\gamee\main.cpp
+	"game.h"
+
+1683681399 source:d:\newgame\gamee\texture.cpp
+
+1683681079 d:\newgame\gamee\texture.h
+	"game.h"
+
+1683682415 source:d:\newgame\gamee\doituong.cpp
+	"doiTuong.h"
+
+1683681715 d:\newgame\gamee\doituong.h
+	"game.h"
+
